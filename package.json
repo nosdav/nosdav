@@ -1,0 +1,23 @@
+{
+  "name": "nosdav",
+  "version": "0.0.1",
+  "description": "nostr distributed authoring and versioning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosdav/nosdav.git"
+  },
+  "keywords": [
+    "nostr",
+    "nosdav"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nosdav/nosdav/issues"
+  },
+  "homepage": "https://github.com/nosdav/nosdav#readme"
+}
