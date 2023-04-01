@@ -1,7 +1,10 @@
-# Nosdav
+<div align="center">
+  <h1>NosDAV</h1>
+</div>
+
 
 <div align="center">  
-<i>nosdav</i>
+<i>Nostr Distributed Authoring and Versioning</i>
 </div>
 
 ---
@@ -20,7 +23,6 @@
 ## Introduction
 
 Nostr Distributed Authoring and Versioning
-
 
 ## License
 
