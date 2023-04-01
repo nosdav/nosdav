@@ -1,6 +1,6 @@
 {
   "name": "nosdav",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nostr distributed authoring and versioning",
   "main": "index.js",
   "scripts": {
