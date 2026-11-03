@@ -20,48 +20,57 @@
     },
     {
       "@id": "#ab9ysn",
-      "name": "README",
-      "x": 217,
-      "y": 106,
-      "link": "https://github.com/nosdav/nosdav/blob/gh-pages/README.md#readme",
+      "name": "Live site",
+      "x": 131,
+      "y": 161,
+      "link": "https://nosdav.com/nosdav/",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#qhtzie",
-      "name": "Introduction",
-      "x": 433,
-      "y": 213,
-      "link": "https://github.com/nosdav/nosdav/blob/gh-pages/README.md#introduction",
+      "name": "Nostr Distributed Authoring and Versioning",
+      "x": 430,
+      "y": 4,
+      "link": "https://nosdav.com/nosdav/",
       "bgColor": "#daeeff",
       "parent": "#ab9ysn"
     },
     {
       "@id": "#2sgmjt",
-      "name": "nostr distributed authoring and versioning",
-      "x": -217,
-      "y": -106,
-      "link": "https://github.com/nosdav/nosdav",
-      "bgColor": "#ececec",
-      "parent": "#this"
+      "name": "nosdav.com/nosdav",
+      "x": 187,
+      "y": 329,
+      "link": "https://nosdav.com/nosdav/",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
     },
     {
       "@id": "#j9h6ge",
       "name": "since Apr 2023 · last 1 Apr 2023",
-      "x": -500,
-      "y": -3,
+      "x": -208,
+      "y": 320,
       "link": "https://github.com/nosdav/nosdav/commits/gh-pages",
       "bgColor": "#ececec",
-      "parent": "#2sgmjt"
+      "parent": "#ab9ysn"
     },
     {
       "@id": "#ejt2c7",
-      "name": "nosdav.com/nosdav",
-      "x": -143,
-      "y": -487,
-      "link": "https://nosdav.com/nosdav/",
-      "bgColor": "#ececec",
-      "parent": "#2sgmjt"
+      "name": "README",
+      "x": -131,
+      "y": -161,
+      "link": "https://github.com/nosdav/nosdav/blob/gh-pages/README.md#readme",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tvx8v7",
+      "name": "Introduction",
+      "x": -245,
+      "y": -301,
+      "link": "https://github.com/nosdav/nosdav/blob/gh-pages/README.md#introduction",
+      "bgColor": "#fbe8d3",
+      "parent": "#ejt2c7"
     }
   ],
   "connections": [
@@ -74,16 +83,20 @@
       "end": 2
     },
     {
-      "start": 0,
+      "start": 1,
       "end": 3
     },
     {
-      "start": 3,
+      "start": 1,
       "end": 4
     },
     {
-      "start": 3,
+      "start": 0,
       "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
     }
   ],
   "selectedNode": 0
