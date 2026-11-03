@@ -1,0 +1,90 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "nosdav",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/nosdav/nosdav",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ab9ysn",
+      "name": "README",
+      "x": 217,
+      "y": 106,
+      "link": "https://github.com/nosdav/nosdav/blob/gh-pages/README.md#readme",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhtzie",
+      "name": "Introduction",
+      "x": 433,
+      "y": 213,
+      "link": "https://github.com/nosdav/nosdav/blob/gh-pages/README.md#introduction",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
+    },
+    {
+      "@id": "#2sgmjt",
+      "name": "nostr distributed authoring and versioning",
+      "x": -217,
+      "y": -106,
+      "link": "https://github.com/nosdav/nosdav",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j9h6ge",
+      "name": "since Apr 2023 · last 1 Apr 2023",
+      "x": -500,
+      "y": -3,
+      "link": "https://github.com/nosdav/nosdav/commits/gh-pages",
+      "bgColor": "#ececec",
+      "parent": "#2sgmjt"
+    },
+    {
+      "@id": "#ejt2c7",
+      "name": "nosdav.com/nosdav",
+      "x": -143,
+      "y": -487,
+      "link": "https://nosdav.com/nosdav/",
+      "bgColor": "#ececec",
+      "parent": "#2sgmjt"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    }
+  ],
+  "selectedNode": 0
+}

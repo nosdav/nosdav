@@ -1,3 +1,5 @@
+
+[![Mind map](https://mindstr.org/badge.svg)](https://mindstr.org/?uri=https://nosdav.com/nosdav/mindstr/index.jsonld)
 <div align="center">
   <h1>NosDAV</h1>
 </div>
